@@ -1,0 +1,3 @@
+Shapes,Anisotropy,Kernel Size,Blur Algorithm
+bunny,0,3,gaussian
+buddha,0.2,7,median
